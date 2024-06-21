@@ -1,7 +1,7 @@
-# Abdul-Mugis Yussif| MSc
+# Abdul-Mugis Yussif | MSc
 
 Email: [mugis.yussif@connect.polyu.hk](mailto:mugis.yussif@connect.polyu.hk)  
-LinkedIn: [linkedin.com/in/yussif-abdul-mugis](https://www.linkedin.com/in/amyussif/)  
+LinkedIn: [linkedin.com/in/amyussif](https://www.linkedin.com/in/amyussif/)  
 Current Location: Hong Kong  
 
 ## Education
