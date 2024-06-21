@@ -64,19 +64,19 @@ Current Location: Hong Kong
 - **Smart Assessment of Bridge Deck Efficiency and Safety in Hong Kong | PolyU**  
   Position: Research Assistant  
   Supervisor: Prof. Tarek Zayed  
-  Period: 08/2023 – present
+  Period: 08/2023 – present     
   <u><strong>Roles:</strong></u> project execution, weekly presentations, research article writing, data collection, workshop presentations.
 
 - **Artificial Intelligence-Based Modeling and Analysis of Water Pipe Failure | PolyU**  
   Position: Research Assistant(PT)  
   Supervisor: Prof. Tarek Zayed  
-  Period: 09/2022 – 07/2023
+  Period: 09/2022 – 07/2023     
   <u><strong>Roles:</strong></u> project execution, weekly presentations, research article writing, workshop presentations. 
 
 - **Smart Noise Logger-based Leak Diagnosis System | PolyU**  
   Position: Research Assistant  
   Supervisor: Prof. Tarek Zayed  
-  Period: 11/2021 – 09/2022
+  Period: 11/2021 – 09/2022     
   <u><strong>Roles:</strong></u> project execution, developed leak localization models with an improved accuracy from 15% to 85%, data collection, sensor deployment, weekly presentation, report writing, and project report writing. 
 
 ## Research Skills
@@ -108,13 +108,13 @@ Current Location: Hong Kong
 ## Leadership and Voluntary Activities
 
 - **Student Representative for Construction and Real Estate, PolyU**  
-  Period: 2022/2023 Academic Year
+  Period: 2022/2023 Academic Year   
   <u><strong>Roles:</strong></u> Participate in meetings with program leaders and department heads, suggest improvements for the MSc program, and discuss teaching and learning experiences with external examiners. 
 - **Member of Campus Voice Scheme, PolyU**  
-  Period: 2022/2023 Academic Year 
+  Period: 2022/2023 Academic Year   
   <u><strong>Roles:</strong></u> Meet the vice dean of students and the students' affairs office to discuss ways to improve campus life. 
 - **Member of KNUST Peer Counselling Center**  
-  Period: 2018-2020 
+  Period: 2018-2020     
   <u><strong>Roles:</strong></u> Visit hospitals, organize health awareness week workshops every semester, and visit student halls every fortnight. 
 
 ## Professional Memberships
