@@ -37,7 +37,7 @@ Current Location: Hong Kong
 
 1. **Abdul-Mugis Yussif**, Tarek Zayed, Ridwan Taiwo, and Ali Fares (2023). "Promoting Sustainable Urban Mobility via Improved Walkable Infrastructure: A Computer Vision Approach." Sustainable Development. 1–21. [doi:10.1002/sd.2999](https://doi.org/10.1002/sd.2999).
 2. Ridwan Taiwo, **Abdul-Mugis Yussif**, Mohamed El Amine Ben Seghier, and Tarek Zayed (2024). "Explainable Ensemble Models for Predicting Wall Thickness Loss of Water Pipes." Ain Shams Engineering Journal. [doi:10.1016/j.asej.2024.102630](https://doi.org/10.1016/j.asej.2024.102630).
-3. Taiwo, R., Bello, I. T., Abdulai, S. F., **Yussif, A. M.**, Salami, B. A., Saka, A., & Zayed, T. (2024). Generative AI in the Construction Industry: A State-of-the-art Analysis. arXiv preprint [doi: 10.48550/arXiv.2402.09939] (https://doi.org/10.48550/arXiv.2402.09939).
+3. Taiwo, R., Bello, I. T., Abdulai, S. F., **Yussif, A. M.**, Salami, B. A., Saka, A., & Zayed, T. (2024). Generative AI in the Construction Industry: A State-of-the-art Analysis. arXiv preprint [doi: 10.48550/arXiv.2402.09939](https://doi.org/10.48550/arXiv.2402.09939).
 4. **Abdul-Mugis Yussif**, Haleh Sadeghi, and Tarek Zayed. (2023). "Application of Machine Learning for Leak Localization in Water Supply Networks." Buildings, 13(4), 849. [doi:10.3390/buildings13040849](https://doi.org/10.3390/buildings13040849).
 
 ## Awards and Scholarships
@@ -61,24 +61,23 @@ Current Location: Hong Kong
 
 ## Research Projects
 
-- **Smart Assessment of Bridge Deck Efficiency and Safety in Hong Kong**  
-  Research Assistant, PolyU  
+- **Smart Assessment of Bridge Deck Efficiency and Safety in Hong Kong | PolyU**  
+  Position: Research Assistant  
   Supervisor: Prof. Tarek Zayed  
   Period: 08/2023 – present
+  <u><strong>Roles:</strong></u> project execution, weekly presentations, research article writing, data collection, workshop presentations.
 
-  <u>**Roles:**<u>project execution,weekly presentations, research article writing, data collection, workshop presentations.
-
-
-
-- **Artificial Intelligence-Based Modeling and Analysis of Water Pipe Failure**  
-  Research Assistant, PolyU  
+- **Artificial Intelligence-Based Modeling and Analysis of Water Pipe Failure | PolyU**  
+  Position: Research Assistant(PT)  
   Supervisor: Prof. Tarek Zayed  
   Period: 09/2022 – 07/2023
+  <u><strong>Roles:</strong></u> project execution, weekly presentations, research article writing, workshop presentations. 
 
-- **Smart Noise Logger-based Leak Diagnosis System**  
-  Research Assistant, PolyU  
+- **Smart Noise Logger-based Leak Diagnosis System | PolyU**  
+  Position: Research Assistant  
   Supervisor: Prof. Tarek Zayed  
   Period: 11/2021 – 09/2022
+  <u><strong>Roles:</strong></u> project execution, developed leak localization models with an improved accuracy from 15% to 85%, data collection, sensor deployment, weekly presentation, report writing, and project report writing. 
 
 ## Research Skills
 
@@ -99,21 +98,24 @@ Current Location: Hong Kong
 ## External Competitive Research Grants Proposals Writing
 
 - **Integrated Efficiency Management System of Asphalt Pavement Using Non-Destructive Technologies and Life Cycle Analysis**  
-  Smart Traffic Fund (STF), Hong Kong, 2023. Under review and consideration.  
-  Roles: Writing introduction and research summary.
+  Smart Traffic Fund (STF), Hong Kong, 2023.  
+  <u><strong>Participation:</strong></u> Writing introduction and research summary.
 
 - **Understanding and Modeling the Impact of Water Network Attributes and Leak Characteristics on Detecting and Pinpointing Leaks**  
-  General Research Fund, Hong Kong, 2022. Not successful; working on resubmission.  
-  Roles: Writing introduction, literature review, and methodology, creating figures.
+  General Research Fund, Hong Kong, 2022.   
+  <u><strong>Participation:</strong></u> Writing introduction, literature review, and methodology, creating figures.
 
 ## Leadership and Voluntary Activities
 
 - **Student Representative for Construction and Real Estate, PolyU**  
-  Period: 2022/2023
+  Period: 2022/2023 Academic Year
+  <u><strong>Roles:</strong></u> Participate in meetings with program leaders and department heads, suggest improvements for the MSc program, and discuss teaching and learning experiences with external examiners. 
 - **Member of Campus Voice Scheme, PolyU**  
-  Period: 2022/2023
+  Period: 2022/2023 Academic Year 
+  <u><strong>Roles:</strong></u> Meet the vice dean of students and the students' affairs office to discuss ways to improve campus life. 
 - **Member of KNUST Peer Counselling Center**  
-  Period: 2018-2020
+  Period: 2018-2020 
+  <u><strong>Roles:</strong></u> Visit hospitals, organize health awareness week workshops every semester, and visit student halls every fortnight. 
 
 ## Professional Memberships
 
