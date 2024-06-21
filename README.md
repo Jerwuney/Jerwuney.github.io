@@ -1,23 +1,23 @@
-# Abdul-Mugis Yussif, MSc
+# Abdul-Mugis Yussif| MSc
 
 Email: [mugis.yussif@connect.polyu.hk](mailto:mugis.yussif@connect.polyu.hk)  
-LinkedIn: [linkedin.com/in/yussif-abdul-mugis](https://www.linkedin.com/in/yussif-abdul-mugis/)  
+LinkedIn: [linkedin.com/in/yussif-abdul-mugis](https://www.linkedin.com/in/amyussif/)  
 Current Location: Hong Kong  
 
 ## Education
 
 - **MSc in Construction and Real Estate with Distinction**
   - Major: Construction Technology, The Hong Kong Polytechnic University (PolyU), Hong Kong
-  - GPA: 3.84/4.3
+  - GPA: 3.84/4.3 (Distinction)
   - Advisor: Professor Tarek Zayed
-  - Duration: 08/2022 – 08/2023
-  - Dissertation: A Novel Framework for Automatic Sidewalk Defect Monitoring with Object Detection and Instance Segmentation
+  - Period: 08/2022 – 08/2023
+  - Dissertation: A Novel Framework for Automatic Sidewalk Defect Monitoring with Object Detection and Instance Segmentation. Received the 1st-Runner-Up Award in the Hong Kong Institution of Engineers (HKIE) SSC Students Projects Competition 2024. 
 
 - **BSc in Civil Engineering**
   - Kwame Nkrumah University of Science and Technology (KNUST), Kumasi, Ghana
   - CWA: 78.03/100, First-class Honors (top 5% in class)
-  - Duration: 09/2016 – 08/2020
-  - Project: Optimal blending of natural gravel for road construction using linear programming
+  - Period: 09/2016 – 08/2020
+  - Project: Optimal Blending of Natural Gravel for Road Construction Using Linear Programming. 
 
 ## Work Experience
 
@@ -35,53 +35,50 @@ Current Location: Hong Kong
 
 ## Publications
 
-### Journal Articles
-
-1. Abdul-Mugis Yussif, Haleh Sadeghi, and Tarek Zayed. (2023). "Application of Machine Learning for Leak Localization in Water Supply Networks." Buildings, 13(4), 849. [doi:10.3390/buildings13040849](https://doi.org/10.3390/buildings13040849).
-2. Ridwan Taiwo, Abdul-Mugis Yussif, Mohamed El Amine Ben Seghier, and Tarek Zayed (2024). "Explainable Ensemble Models for Predicting Wall Thickness Loss of Water Pipes." Ain Shams Engineering Journal. [doi:10.1016/j.asej.2024.102630](https://doi.org/10.1016/j.asej.2024.102630).
-
-### Under Review
-
-1. Abdul-Mugis Yussif, Tarek Zayed, Ridwan Taiwo, and Ali Fares (2023). "Promoting Sustainable Urban Mobility via Improved Walkable Infrastructure: A Computer Vision Approach." Sustainable Development.
-2. Rui Zhang, Ali Fares, Ibrahim Tijani, Tarek Zayed, Zirin Jin, and Abdul-Mugis Yussif (2023). "Accurate leak location detection via deep learning in urban water distribution networks." Water Research.
-
-### Working Papers
-
-1. Abdul-Mugis Yussif, Ridwan Taiwo, and Tarek Zayed. (2023). "Computer Vision in Pedestrian Path Studies."
+1. **Abdul-Mugis Yussif**, Tarek Zayed, Ridwan Taiwo, and Ali Fares (2023). "Promoting Sustainable Urban Mobility via Improved Walkable Infrastructure: A Computer Vision Approach." Sustainable Development. 1–21. [doi:10.1002/sd.2999](https://doi.org/10.1002/sd.2999).
+2. Ridwan Taiwo, **Abdul-Mugis Yussif**, Mohamed El Amine Ben Seghier, and Tarek Zayed (2024). "Explainable Ensemble Models for Predicting Wall Thickness Loss of Water Pipes." Ain Shams Engineering Journal. [doi:10.1016/j.asej.2024.102630](https://doi.org/10.1016/j.asej.2024.102630).
+3. Taiwo, R., Bello, I. T., Abdulai, S. F., **Yussif, A. M.**, Salami, B. A., Saka, A., & Zayed, T. (2024). Generative AI in the Construction Industry: A State-of-the-art Analysis. arXiv preprint [doi: 10.48550/arXiv.2402.09939] (https://doi.org/10.48550/arXiv.2402.09939).
+4. **Abdul-Mugis Yussif**, Haleh Sadeghi, and Tarek Zayed. (2023). "Application of Machine Learning for Leak Localization in Water Supply Networks." Buildings, 13(4), 849. [doi:10.3390/buildings13040849](https://doi.org/10.3390/buildings13040849).
 
 ## Awards and Scholarships
 
-- **Student Competition**  
-  Visualising Sustainable Mobility in African Cities by The World Resource Institute (WRI) Africa. Winning Design (Team), 2024
+- **Hong Kong Institution of Engineers (HKIE) Safety Specialist Committee (SSC) - Students Project Competition 2024**
+    1st Runner-Up Award in recognition of outstanding safety engineering acheivement and performance, Master's level
+- **Student Design Competition - World Resource Institute (WRI)**  
+  Winning Design (Team). Topic: Visualising Sustainable Mobility in African Cities by The World Resource Institute (WRI) Africa, 2024
 - **PolyU Presidential PhD Fellowship**  
-  For outstanding academic performance and research excellence, 2024 – 2027
+  For outstanding academic performance and research excellence, worth HK$1.31 million, 2024 – 2027
 - **FCE Scholarship for Outstanding Postgraduate Students**  
   The Hong Kong Polytechnic University, worth HK$230,000 annually, 2022/2023
 - **Outstanding MSc Applicant Scholarship**  
   Asian Institute of Technology, Thailand, worth US$16,450, 07/2023
 - **MSc in Civil Engineering Scholarship**  
-  Tandon School of Engineering, New York University, worth US$8,000 per year, 09/2020
-- **College of Engineering Excellent Students Award**  
-  KNUST, 2016-2019
-- **Provost's List**  
-  For achieving a very high GPA, KNUST, 2017-2020
+  Tandon School of Engineering, New York University, worth US$8,000 per year towards tuition fees offset, 09/2020 for excellent undergraduate performance. 
+- **College of Engineering Excellent Students Award - KNUST**  
+  2016/17, 2017/18, and 2018/19 academic years for excellent academic performance with a very high GPA
+- **College of Engineering Provost's List - KNUST**  
+  2017/18, 2018/19, and 2019/20 academic years for excellent academic performance with a very high GPA
 
 ## Research Projects
 
 - **Smart Assessment of Bridge Deck Efficiency and Safety in Hong Kong**  
   Research Assistant, PolyU  
   Supervisor: Prof. Tarek Zayed  
-  Duration: 08/2023 – present
+  Period: 08/2023 – present
+
+  <u>**Roles:**<u>project execution,weekly presentations, research article writing, data collection, workshop presentations.
+
+
 
 - **Artificial Intelligence-Based Modeling and Analysis of Water Pipe Failure**  
   Research Assistant, PolyU  
   Supervisor: Prof. Tarek Zayed  
-  Duration: 09/2022 – 07/2023
+  Period: 09/2022 – 07/2023
 
 - **Smart Noise Logger-based Leak Diagnosis System**  
   Research Assistant, PolyU  
   Supervisor: Prof. Tarek Zayed  
-  Duration: 11/2021 – 09/2022
+  Period: 11/2021 – 09/2022
 
 ## Research Skills
 
@@ -112,11 +109,11 @@ Current Location: Hong Kong
 ## Leadership and Voluntary Activities
 
 - **Student Representative for Construction and Real Estate, PolyU**  
-  Duration: 2022/2023
+  Period: 2022/2023
 - **Member of Campus Voice Scheme, PolyU**  
-  Duration: 2022/2023
+  Period: 2022/2023
 - **Member of KNUST Peer Counselling Center**  
-  Duration: 2018-2020
+  Period: 2018-2020
 
 ## Professional Memberships
 
