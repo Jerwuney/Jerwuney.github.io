@@ -79,6 +79,10 @@ Current Location: Hong Kong
   Period: 11/2021 – 09/2022  
   <u><strong>Roles:</strong></u> project execution, developed leak localization models with an improved accuracy from 15% to 85%, data collection, sensor deployment, weekly presentation, report writing, and project report writing. 
 
+## Invited Talks and Presentations
+
+- Speaker: The 24th Scientific Seminar of the Group Mechanics and Construction, Van Lang University (Vietnam), 29th February 2024.  
+
 ## Research Skills
 
 - Python programming
