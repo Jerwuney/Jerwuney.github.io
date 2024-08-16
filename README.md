@@ -1,4 +1,4 @@
-# Abdul-Mugis Yussif | MSc
+# Abdul-Mugis Yussif || MSc || PhD Candidate '27
 
 Email: [mugis.yussif@connect.polyu.hk](mailto:mugis.yussif@connect.polyu.hk)  
 LinkedIn: [linkedin.com/in/amyussif](https://www.linkedin.com/in/amyussif/)  
@@ -35,15 +35,16 @@ Current Location: Hong Kong
 
 ## Publications
 
-1. **Abdul-Mugis Yussif**, Tarek Zayed, Ridwan Taiwo, and Ali Fares (2023). "Promoting Sustainable Urban Mobility via Improved Walkable Infrastructure: A Computer Vision Approach." Sustainable Development. 1–21. [doi:10.1002/sd.2999](https://doi.org/10.1002/sd.2999).
-2. Ridwan Taiwo, **Abdul-Mugis Yussif**, Mohamed El Amine Ben Seghier, and Tarek Zayed (2024). "Explainable Ensemble Models for Predicting Wall Thickness Loss of Water Pipes." Ain Shams Engineering Journal. [doi:10.1016/j.asej.2024.102630](https://doi.org/10.1016/j.asej.2024.102630).
-3. Taiwo, R., Bello, I. T., Abdulai, S. F., **Yussif, A. M.**, Salami, B. A., Saka, A., & Zayed, T. (2024). Generative AI in the Construction Industry: A State-of-the-art Analysis. arXiv preprint [doi: 10.48550/arXiv.2402.09939](https://doi.org/10.48550/arXiv.2402.09939).
-4. **Abdul-Mugis Yussif**, Haleh Sadeghi, and Tarek Zayed. (2023). "Application of Machine Learning for Leak Localization in Water Supply Networks." Buildings, 13(4), 849. [doi:10.3390/buildings13040849](https://doi.org/10.3390/buildings13040849).
+1. Zhang, R., Yussif, A. M., Tijani, I., Fares, A., Tariq, S., & Zayed, T. (2024). Acoustic localization approach for urban water distribution networks using machine learning method. Engineering Applications of Artificial Intelligence, 137, 109062. [](https://doi.org/10.1016/j.engappai.2024.109062)
+2. **Abdul-Mugis Yussif**, Tarek Zayed, Ridwan Taiwo, and Ali Fares (2023). "Promoting Sustainable Urban Mobility via Improved Walkable Infrastructure: A Computer Vision Approach." Sustainable Development. 1–21. [doi:10.1002/sd.2999](https://doi.org/10.1002/sd.2999).
+3. Ridwan Taiwo, **Abdul-Mugis Yussif**, Mohamed El Amine Ben Seghier, and Tarek Zayed (2024). "Explainable Ensemble Models for Predicting Wall Thickness Loss of Water Pipes." Ain Shams Engineering Journal. [doi:10.1016/j.asej.2024.102630](https://doi.org/10.1016/j.asej.2024.102630).
+4. Taiwo, R., Bello, I. T., Abdulai, S. F., **Yussif, A. M.**, Salami, B. A., Saka, A., & Zayed, T. (2024). Generative AI in the Construction Industry: A State-of-the-art Analysis. arXiv preprint [doi: 10.48550/arXiv.2402.09939](https://doi.org/10.48550/arXiv.2402.09939).
+5. **Abdul-Mugis Yussif**, Haleh Sadeghi, and Tarek Zayed. (2023). "Application of Machine Learning for Leak Localization in Water Supply Networks." Buildings, 13(4), 849. [doi:10.3390/buildings13040849](https://doi.org/10.3390/buildings13040849).
 
 ## Awards and Scholarships
 
 - **Hong Kong Institution of Engineers (HKIE) Safety Specialist Committee (SSC) - Students Project Competition 2024**
-    1st Runner-Up Award in recognition of outstanding safety engineering acheivement and performance, Master's level
+    1st Runner-Up Award in recognition of outstanding safety engineering achievement and performance, Master's level
 - **Student Design Competition - World Resource Institute (WRI)**  
   Winning Design (Team). Topic: Visualising Sustainable Mobility in African Cities by The World Resource Institute (WRI) Africa, 2024
 - **PolyU Presidential PhD Fellowship**  
