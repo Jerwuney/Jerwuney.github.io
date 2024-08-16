@@ -21,7 +21,7 @@ Current Location: Hong Kong
   - GPA: 3.84/4.3 (Distinction)
   - Advisor: Professor Tarek Zayed
   - Period: 08/2022 – 08/2023
-  - Dissertation: A Novel Framework for Automatic Sidewalk Defect Monitoring with Object Detection and Instance Segmentation. Link: https://theses.lib.polyu.edu.hk/handle/200/12615. Won 1st-Runner-Up Award in the Hong Kong Institution of Engineers (HKIE) SSC Students Projects Competition 2024. 
+  - Dissertation: A Novel Framework for Automatic Sidewalk Defect Monitoring with Object Detection and Instance Segmentation. [https://theses.lib.polyu.edu.hk/handle/200/12615](https://theses.lib.polyu.edu.hk/handle/200/12615). Won 1st-Runner-Up Award in the Hong Kong Institution of Engineers (HKIE) SSC Students Projects Competition 2024. 
 
 - **BSc in Civil Engineering**
   - Kwame Nkrumah University of Science and Technology (KNUST), Kumasi, Ghana
