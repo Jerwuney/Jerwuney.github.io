@@ -16,6 +16,10 @@ Current Location: Hong Kong
 
 ## Education
 
+- **PhD Candidate (Building and Real Estate) '27**
+  - The Hong Kong Polytechnic University (PolyU), Hong Kong
+  - Research Focus: Pavement management, sustainable transportation, computer vision application in infrastructure, and machine learning.
+
 - **MSc in Construction and Real Estate with Distinction**
   - Major: Construction Technology, The Hong Kong Polytechnic University (PolyU), Hong Kong
   - GPA: 3.84/4.3 (Distinction)
@@ -45,11 +49,17 @@ Current Location: Hong Kong
 
 ## Publications
 
-1. Zhang, R., **Yussif, A. M.**, Tijani, I., Fares, A., Tariq, S., & Zayed, T. (2024). Acoustic localization approach for urban water distribution networks using machine learning method. Engineering Applications of Artificial Intelligence, 137, 109062. [doi.10.1016/j.engappai.2024.109062](https://doi.org/10.1016/j.engappai.2024.109062).  
-2. **Abdul-Mugis Yussif**, Tarek Zayed, Ridwan Taiwo, and Ali Fares (2023). "Promoting Sustainable Urban Mobility via Improved Walkable Infrastructure: A Computer Vision Approach." Sustainable Development. 1–21. [doi:10.1002/sd.2999](https://doi.org/10.1002/sd.2999).
-3. Ridwan Taiwo, **Abdul-Mugis Yussif**, Mohamed El Amine Ben Seghier, and Tarek Zayed (2024). "Explainable Ensemble Models for Predicting Wall Thickness Loss of Water Pipes." Ain Shams Engineering Journal. [doi:10.1016/j.asej.2024.102630](https://doi.org/10.1016/j.asej.2024.102630).
-4. Taiwo, R., Bello, I. T., Abdulai, S. F., **Yussif, A. M.**, Salami, B. A., Saka, A., & Zayed, T. (2024). Generative AI in the Construction Industry: A State-of-the-art Analysis. arXiv preprint [doi: 10.48550/arXiv.2402.09939](https://doi.org/10.48550/arXiv.2402.09939).
-5. **Abdul-Mugis Yussif**, Haleh Sadeghi, and Tarek Zayed. (2023). "Application of Machine Learning for Leak Localization in Water Supply Networks." Buildings, 13(4), 849. [doi:10.3390/buildings13040849](https://doi.org/10.3390/buildings13040849).
+1. Fares, A., Zayed, T., Faris, N., **Yussif, A. M.**, & Abdelkhalek, S. (2025). Pavement thickness evaluation using GPR and fuzzy logic. Automation in Construction, 175, 106236. [doi: 10.1016/j.autcon.2025.106236](https://doi.org/10.1016/j.autcon.2025.106236). 
+2. Bakhtawar, B., Zayed, T., Shaban, I., Elshabory, N., & **Yussif, A. M. (2025)**. Ageing underground water pipelines: Time-to-failure models, gaps and future directions. Water Research X, 100331. [doi: 10.1016/j.wroa.2025.100331](https://doi.org/10.1016/j.wroa.2025.100331) _{Corresponding author}_
+3. Taiwo, R., **Yussif, A. M.**, & Zayed, T. (2025). Making waves: Generative artificial intelligence in water distribution networks: Opportunities and challenges. Water Research X, 28, 100316. [doi: 10.1016/j.wroa.2025.100316](https://doi.org/10.1016/j.wroa.2025.100316)
+4. Taiwo, R., Bello, I. T., Abdulai, S. F., **Yussif, A. M.**, Salami, B. A., Saka, A., ... & Zayed, T. (2025). Generative artificial intelligence in construction: A Delphi approach, framework, and case study. Alexandria Engineering Journal, 116, 672-698. [doi: 10.1016/j.aej.2024.12.079](https://doi.org/10.1016/j.aej.2024.12.079)
+5. Abdulai, S. F., Zayed, T., Wuni, I. Y., Antwi-Afari, M. F., & **Yussif, A. M**. (2025). Cross-industry review of autonomous alignment technologies: Adaptation potential for modular construction. Journal of Cleaner Production, 145101. [doi: 10.1016/j.jclepro.2025.145101](https://doi.org/10.1016/j.jclepro.2025.145101)
+6. Taiwo, R., **Yussif, A. M.**, Adegoke, A. H., & Zayed, T. (2024). Prediction and deployment of compressive strength of high-performance concrete using ensemble learning techniques. Construction and Building Materials, 451, 138808. [doi: 10.1016/j.conbuildmat.2024.138808](https://doi.org/10.1016/j.conbuildmat.2024.138808)
+7. Zhang, R., **Yussif, A. M.**, Tijani, I., Fares, A., Tariq, S., & Zayed, T. (2024). Acoustic localization approach for urban water distribution networks using machine learning method. Engineering Applications of Artificial Intelligence, 137, 109062. [doi: 10.1016/j.engappai.2024.109062](https://doi.org/10.1016/j.engappai.2024.109062).  
+8. **Abdul-Mugis Yussif**, Tarek Zayed, Ridwan Taiwo, and Ali Fares (2024). Promoting Sustainable Urban Mobility via Improved Walkable Infrastructure: A Computer Vision Approach. Sustainable Development. 1–21. [doi: 10.1002/sd.2999](https://doi.org/10.1002/sd.2999).
+9. Ridwan Taiwo, **Abdul-Mugis Yussif**, Mohamed El Amine Ben Seghier, and Tarek Zayed (2024). Explainable Ensemble Models for Predicting Wall Thickness Loss of Water Pipes. Ain Shams Engineering Journal. [doi: 10.1016/j.asej.2024.102630](https://doi.org/10.1016/j.asej.2024.102630).
+10. Taiwo, R., Bello, I. T., Abdulai, S. F., **Yussif, A. M.**, Salami, B. A., Saka, A., & Zayed, T. (2024). Generative AI in the Construction Industry: A State-of-the-art Analysis. arXiv preprint [doi: 10.48550/arXiv.2402.09939](https://doi.org/10.48550/arXiv.2402.09939).
+11. **Abdul-Mugis Yussif**, Haleh Sadeghi, and Tarek Zayed. (2023). Application of Machine Learning for Leak Localization in Water Supply Networks. Buildings, 13(4), 849. [doi: 10.3390/buildings13040849](https://doi.org/10.3390/buildings13040849). _{Corresponding author}_
 
 ## Awards and Scholarships
 
@@ -90,6 +100,8 @@ Current Location: Hong Kong
   Period: 11/2021 – 09/2022  
   <u><strong>Roles:</strong></u> project execution, developed leak localization models with an improved accuracy from 15% to 85%, data collection, sensor deployment, weekly presentation, report writing, and project report writing. 
 
+## Conferences 
+- **Presenter**: 
 ## Invited Talks and Presentations
 
 - Speaker: The 24th Scientific Seminar of the Group Mechanics and Construction, Van Lang University (Vietnam), 29th February 2024. Topic: A Novel Framework for Automatic Sidewalk Defect Monitoring with Object Detection and Instance Segmentation.  
